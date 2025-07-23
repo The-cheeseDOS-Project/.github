@@ -1,1 +1,1 @@
-cheeseDOS is a fully GNU, custom C written, super small under 800KB live command based operating system that loads into random access memory.
+cheeseDOS is a fully GNU GPLed, custom C written, super small, under 800KB live CLI based DOS like OS that loads into RAM.
